@@ -1,3 +1,14 @@
+# Lisa Olson - GeoQuakes Assignment
+
+## Link to repo
+    https://github.com/lisaolson/geoquakes
+### Reflection
+
+  I worked on this assignment with Zach and Jason.  It really helped working in a group on this assignment. I'm happy with the progress we made. We didn't quite finish, but we got at least 2 markers to show up on the map.  
+
+
+
+
 <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60">
 #GeoQuakes Training
 
